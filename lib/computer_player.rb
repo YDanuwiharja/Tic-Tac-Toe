@@ -1,0 +1,1 @@
+# define computer player logic and input

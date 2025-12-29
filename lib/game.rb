@@ -1,0 +1,1 @@
+# for defining game rules and function
